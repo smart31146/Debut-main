@@ -1,0 +1,23 @@
+{
+  "name": "debut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "shopify-website": "git+https://github.com/colinbendell/shopify-cli.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-kelly/debut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-kelly/debut/issues"
+  },
+  "homepage": "https://github.com/t-kelly/debut#readme"
+}
